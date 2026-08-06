@@ -181,4 +181,4 @@ BetaBite Studios
 
 <sub>© 2024 BetaBite Studios • All rights reserved across all dimensions</sub>
 
-</div> ```
+</div>
