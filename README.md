@@ -172,8 +172,8 @@ Contributions from fellow cosmic travelers are welcomed with open arms!
 <div align="center">
 BetaBite Studios
 
-https://img.shields.io/badge/%F0%9F%8C%8C_PhantomXReborn-181717?style=flat-square&logo=github&logoColor=white
-https://img.shields.io/badge/%F0%9F%93%A7_betabite.studios@email.com-D14836?style=flat-square&logo=gmail&logoColor=white
+[![Live Demo](https://img.shields.io/badge/%F0%9F%8C%8C_PhantomXReborn-181717?style=flat-square&logo=github&logoColor=white)](https://betabite-studios.vercel.app)
+[![Live Demo](https://img.shields.io/badge/%F0%9F%93%A7_betabite.studios@email.com-D14836?style=flat-square&logo=gmail&logoColor=white)](https://betabite-studios.vercel.app)
 
 </div>
 <div align="center"> <br>
