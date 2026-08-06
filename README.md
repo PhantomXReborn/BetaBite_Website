@@ -7,7 +7,7 @@
   [![Live Demo](https://img.shields.io/badge/✨_Live_Demo-3b7dbd?style=for-the-badge&logo=vercel&logoColor=white)](https://betabite-studios.vercel.app)
   [![GitHub](https://img.shields.io/badge/🌌_PhantomXReborn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomXReborn)
   [![License](https://img.shields.io/badge/📜_MIT_License-blue?style=for-the-badge)](LICENSE)
-  [![Made with](https://img.shields.io/badge/❤️_Made_with-Passion-ff69b4?style=for-the-badge)](https://github.com/PhantomXReborn)
+  [![Made with](https://img.shields.io/badge/🔎_Made_with-Precision-blue?style=for-the-badge)](https://github.com/PhantomXReborn)
   
   > *"Crafting digital experiences across the multiverse of game development, simulation, and full-stack engineering."*
 
