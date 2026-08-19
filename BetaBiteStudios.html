@@ -714,7 +714,7 @@
   <div class="container">
     <!-- Hero -->
     <header class="hero fade-up visible">
-      <span class="hero-badge"><i class="fas fa-code"></i> BetaBite Studios</span>
+      <img src="Roblox_logo1.png" alt="BetaBite Studios" width="1000" height="400">
       <h1>
         <span class="text-gradient">Crafting</span> the<br>
         <span class="typewriter">Future of Code</span>
@@ -875,18 +875,20 @@
           <div class="repo-desc">Fetching from GitHub</div>
         </div>
       </div>
-      <a href="https://github.com/PhantomXReborn?tab=repositories" target="_blank" class="btn-github">
+      <a href="https://github.com/PhantomXReborn" target="_blank" class="btn-github">
         <i class="fab fa-github"></i> View All Repositories
       </a>
     </section>
 
     <!-- Footer -->
-    <footer class="footer">
-      <p><i class="fas fa-code"></i> with <i class="fas fa-heart" style="color: #e74c3c;"></i> by BetaBite Studios &mdash; <span id="year"></span></p>
-      <p style="font-size: 0.85rem; margin-top: 0.3rem;">
-        <i class="fas fa-moon"></i> Dark/Light · <i class="fas fa-keyboard"></i> Press 't' to toggle
-      </p>
-    </footer>
+     <section class="repo-section fade-up">    
+        <footer class="footer">
+        <p><i class="fas fa-code"></i> with <i class="fas fa-heart" style="color: #e74c3c;"></i> by BetaBite Studios &mdash; <span id="year"></span></p>
+        <p style="font-size: 0.85rem; margin-top: 0.3rem;">
+          <i class="fas fa-moon"></i> Dark/Light · <i class="fas fa-keyboard"></i> Press 't' to toggle
+        </p>
+      </footer>
+    </section>
   </div>
 
   <script>
@@ -1250,7 +1252,7 @@
       const username = 'PhantomXReborn';
       async function fetchRepos() {
         try {
-          const response = await fetch(`https://api.github.com/users/${username}/repos?sort=updated&per_page=6`);
+          const response = await fetch(`https://api.github.com/users/${username}/repos?sort=updated&per_page=8`);
           if (!response.ok) throw new Error(`GitHub API ${response.status}`);
           const repos = await response.json();
           if (!Array.isArray(repos) || repos.length === 0) { showFallbackRepos(); return; }
