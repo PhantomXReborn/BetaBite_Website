@@ -5,7 +5,7 @@
   ### *Where Code Meets Cosmos*
   
   [![GitHub](https://img.shields.io/badge/🌌_PhantomXReborn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomXReborn)
-  [![Live Demo](https://img.shields.io/badge/✨_Student_Made-3b7dbd?style=for-the-badge&logo=vercel&logoColor=white)](https://betabite-studios.vercel.app)
+  [![Live Demo](https://img.shields.io/badge/✨_Student_Made-3b7dbd?style=for-the-badge&logo=vercel&logoColor=white)](https://beta-bite-website-4iwcyg76n-phantomxreborns-projects.vercel.app/)
   [![License](https://img.shields.io/badge/📜_MIT_License-blue?style=for-the-badge)](LICENSE)
   [![Made with](https://img.shields.io/badge/🔎_Made_by_BetaBite_Studios-blue?style=for-the-badge)](https://github.com/PhantomXReborn)
   
